@@ -17,8 +17,8 @@ title: Nicholai Benko Portfolio
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   I just want something to work
-baseurl: "https://nbenko1.github.io/Portfolio-Van/"
-url: "https://nbenko1.github.io/Portfolio-Van/" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "https://nbenko1.github.io/Portfolio-Van/"
+#url: "https://nbenko1.github.io/Portfolio-Van/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
